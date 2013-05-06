@@ -1,0 +1,14 @@
+<package>
+  <description brief="hello_package">
+
+     hello_package
+
+  </description>
+  <author>RJ Linton</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/hello_package</url>
+  <depend package="roscpp"/>
+</package>
+
+
